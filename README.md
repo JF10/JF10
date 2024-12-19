@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JF10
-- 👀 I’m interested collaborate as much as I can and improve my code in the procces
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React.js
+- 👀 I’m interested to collaborate as much as I can and improve my code in the procces
 - 📫 How to reach me by mail: floresjuan1091@gmail.com
 
 <!---
